@@ -1,4 +1,5 @@
 <?php
 //tuliskan loopingnya di sini
-// mencoba untuk edit file
+//mencoba untuk edit file
+//hasil editan
 ?>
